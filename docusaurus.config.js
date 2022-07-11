@@ -4,6 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
@@ -35,9 +36,11 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          sidebarCollapsible: true, //默认折叠
+          routeBasePath: "/",
+          showLastUpdateTime: false,
+          showLastUpdateAuthor: false,
+          breadcrumbs: true,
         },
         blog: {
           showReadingTime: true,
@@ -56,71 +59,58 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+    
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+      },
+
+      navbar: {
+        title: 'Zihao\'s Garden',
+        hideOnScroll: false,
+
+        items: [{
+            type:'docSidebar',
+            label: '数字花园',
+            sidebarId:'数字花园',
             position: 'right',
           },
+        {
+          type:'docSidebar',
+          label: '成长笔记',
+          sidebarId:'成长笔记',
+          position: 'right',
+        },
+          {
+            href: 'https://github.com/linyuxuanlin/Wiki_Docusaurus',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          },
+
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            href: "https://nav.wiki-power.com/",
+            label: "友链 & 导航站",
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
+            href: "http://digest.wiki-power.com/",
+            label: "书摘",
           },
           {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
+            label: '资源仓库',
+            href: 'https://github.com/linyuxuanlin/File-host',
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+
+
+        //copyright: `by Power Lin | 粤 ICP 备 20014898 号 | Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

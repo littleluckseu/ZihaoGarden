@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Zihao\'s Garden',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.wiki-hao.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -86,7 +86,9 @@ const config = {
         title: 'Zihao\'s Garden',
         hideOnScroll: false,
 
-        items: [{
+        items: [
+          {to: 'blog', label: '博客', position: 'left'},
+          {
             type:'docSidebar',
             label: '数字花园',
             sidebarId:'数字花园',
@@ -98,8 +100,14 @@ const config = {
           sidebarId:'成长笔记',
           position: 'right',
         },
+        {
+          type:'docSidebar',
+          label: 'AILearning',
+          sidebarId:'AILearning',
+          position: 'right',
+        },
           {
-            href: 'https://github.com/linyuxuanlin/Wiki_Docusaurus',
+            href: 'https://github.com/littleluckseu/ZihaoGarden',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
@@ -111,12 +119,8 @@ const config = {
         style: 'dark',
         links: [
           {
-            href: "https://nav.wiki-power.com/",
-            label: "友链 & 导航站",
-          },
-          {
-            href: "http://digest.wiki-power.com/",
-            label: "书摘",
+            href: "https://www.zhihu.com/people/littleluck-18",
+            label: "知乎主页",
           },
           {
             label: '资源仓库',

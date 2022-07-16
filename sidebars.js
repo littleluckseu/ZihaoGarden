@@ -119,7 +119,9 @@ const sidebars = {
   成长笔记: [
     'Life/2022fall申请总结'
   ],
-   
+  AILearning: [
+    'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
+  ],
 };
 
 module.exports = sidebars;

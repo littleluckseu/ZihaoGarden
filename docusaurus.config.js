@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Zihao\'s Garden',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -27,7 +27,21 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        language: ["en", "zh"],
+        // ```
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -51,6 +65,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+
         },
       }),
     ],

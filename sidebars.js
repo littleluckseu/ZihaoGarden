@@ -125,7 +125,8 @@ const sidebars = {
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
   ],
   留学相关:[
-    
+    'EE方向背景提升',
+    '美国EE方向梳理'
   ],
 };
 

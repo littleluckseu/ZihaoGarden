@@ -68,7 +68,9 @@ const sidebars = {
         'Input/搜索之道',
         'Input/搜索之法',
         'Input/建立自己的信息渠道库',
-        'Input/给自己一个“停止”按钮'
+        'Input/给自己一个“停止”按钮',
+        'Input/信息搜集与处理之全面了解一个行业&职业',
+        
       ],
     },
     {
@@ -121,6 +123,9 @@ const sidebars = {
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
+  ],
+  留学相关:[
+    
   ],
 };
 

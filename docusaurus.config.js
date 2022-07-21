@@ -109,6 +109,12 @@ const config = {
           sidebarId:'AILearning',
           position: 'right',
         },
+        {
+          type:'docSidebar',
+          label: '留学相关',
+          sidebarId:'留学相关',
+          position: 'right',
+        },
           {
             href: 'https://github.com/littleluckseu/ZihaoGarden',
             position: 'right',

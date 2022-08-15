@@ -36,7 +36,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '🏡实践篇',
+      label: '🎆实践篇',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -125,8 +125,21 @@ const sidebars = {
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
   ],
   留学相关:[
-    'EE方向背景提升',
-    '美国EE方向梳理'
+    {
+      type: 'category',
+      label: '📚文书准备',
+      link: {
+        type: 'generated-index',
+        //description: ' ',
+        keywords: ['x', 'x'],
+      },
+      items: [
+        'Studyabroad/Diy文书之前期准备', 
+        'Studyabroad/Diy文书：SoP写作指南',
+      ],
+    },
+    'Studyabroad/EE方向背景提升', 
+    'Studyabroad/美国EE方向梳理'
   ],
 };
 

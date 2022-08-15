@@ -1,10 +1,8 @@
 ---
-id: Home
-title: Zihao's Garden
-sidebar_label: Home
+title: 🌈Zihao's Digital Garden
+
 slug: /
 ---
-
 # 🌈 Zihao's Digital Garden
 
 Hello! 有缘人~ 欢迎来到我的数字花园。

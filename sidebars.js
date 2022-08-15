@@ -136,6 +136,7 @@ const sidebars = {
       items: [
         'Studyabroad/Diy文书之前期准备', 
         'Studyabroad/Diy文书：SoP写作指南',
+        'Studyabroad/Diy文书：你必须知道的实用网站'
       ],
     },
     'Studyabroad/EE方向背景提升', 

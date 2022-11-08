@@ -124,7 +124,7 @@ const sidebars = {
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
   ],
-  留学相关:[
+  留学专题:[
     {
       type: 'category',
       label: '📚文书准备',

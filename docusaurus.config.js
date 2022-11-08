@@ -90,29 +90,41 @@ const config = {
         hideOnScroll: false,
 
         items: [
-          {to: 'blog', label: '博客', position: 'left'},
+          {
+            type: 'dropdown',
+            label: '📞通信学习',
+            position: 'left',
+            items: [
+              {
+                type:'docSidebar',
+                label: '数字花园',
+                sidebarId:'数字花园',
+              },
+
+            ],
+          },
           {
             type:'docSidebar',
-            label: '数字花园',
+            label: '☘️数字花园',
             sidebarId:'数字花园',
             position: 'right',
           },
         {
           type:'docSidebar',
-          label: '成长笔记',
+          label: '🪄成长笔记',
           sidebarId:'成长笔记',
           position: 'right',
         },
         {
           type:'docSidebar',
-          label: 'AILearning',
+          label: '🚀AILearning',
           sidebarId:'AILearning',
           position: 'right',
         },
         {
           type:'docSidebar',
-          label: '留学相关',
-          sidebarId:'留学相关',
+          label: '🌅留学专题',
+          sidebarId:'留学专题',
           position: 'right',
         },
           {
@@ -136,9 +148,6 @@ const config = {
             href: 'https://github.com/linyuxuanlin/File-host',
           },
         ],
-
-
-        //copyright: `by Power Lin | 粤 ICP 备 20014898 号 | Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

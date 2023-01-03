@@ -119,7 +119,8 @@ const sidebars = {
   ],
 
   成长笔记: [
-    'Life/2022fall申请总结'
+    'Life/2022fall申请总结',
+    'Life/2022的吉光片羽'
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
@@ -140,7 +141,27 @@ const sidebars = {
       ],
     },
     'Studyabroad/EE方向背景提升', 
-    'Studyabroad/美国EE方向梳理'
+    'Studyabroad/美国EE方向梳理',
+    {
+      type: 'category',
+      label: '🌀CV写作指北',
+      link: {
+        type: 'generated-index',
+        description: '一本极简的 CV 写作指南，适合申请季的学生自己 Diy。',
+        keywords: ['x', 'x'],
+      },
+      items: [
+        'Studyabroad/CV guidebook/序言', 
+        'Studyabroad/CV guidebook/CV 写作流程一览',
+        'Studyabroad/CV guidebook/Part1 Personal Information', 
+        'Studyabroad/CV guidebook/Part2 Education',
+        'Studyabroad/CV guidebook/Part3 Experience',
+        'Studyabroad/CV guidebook/Part4 Additional Information',
+        'Studyabroad/CV guidebook/FAQ',
+        'Studyabroad/CV guidebook/附录'
+        
+      ],
+    },
   ],
 };
 

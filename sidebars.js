@@ -120,7 +120,9 @@ const sidebars = {
 
   成长笔记: [
     'Life/2022fall申请总结',
-    'Life/2022的吉光片羽'
+    'Life/2022的吉光片羽',
+    'Life/2021年复盘',
+    'Life/2020年复盘'
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
@@ -159,7 +161,6 @@ const sidebars = {
         'Studyabroad/CV guidebook/Part4 Additional Information',
         'Studyabroad/CV guidebook/FAQ',
         'Studyabroad/CV guidebook/附录'
-        
       ],
     },
   ],

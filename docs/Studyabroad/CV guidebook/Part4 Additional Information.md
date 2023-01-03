@@ -22,7 +22,7 @@ Additional information 板块也可以分为单独的小版块，具体的根据
 
 English (conversational), Chinese (native)
 
-基本上这样就 Ok 了，不需要额外写自己的托福雅思成绩，也不需要把单项的分数列出来。 
+基本上这样就 Ok 了，当然如果有比较高的托福雅思或者 GRE&GMAT 成绩也可以标注在后面。
 
 （2）Interests & Hobbies
 
@@ -32,7 +32,11 @@ English (conversational), Chinese (native)
 
 > Writing (20k+ followers on Zhihu), Knowledge management (Created a paid course)
 
+:::tip
+
 **虽然这部分内容大家可以自由发挥，加入自己想要展现的信息，但是这部分占据的篇幅一定不要喧宾夺主。**
+:::  
+
 
 
 

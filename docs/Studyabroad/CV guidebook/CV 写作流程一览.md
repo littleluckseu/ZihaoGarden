@@ -50,9 +50,9 @@ CV 不同于找工作的 Resume，Resume 需要根据岗位定制，但对于不
 - Something you did that resulted in benefiting the organization 
 - ...
 
-所有成果描述的写法，我建议以 SAR （Situation-Action-Result）的形式来进行组织。不同 bullet points 之间根据情况选择采取「重要性排序」还是「逻辑链排序」（后面会提到）。
+所有成果描述的写法，我建议以 SAR （Situation-Action-Result）的形式来进行组织。不同 bullet points 之间根据情况选择采取「重要性排序」还是「逻辑链排序」（后面会提到）。同时呢，在后续 Experience 的板块会有大量实际的案例以及更加具体的讲解。  
 
-在后续 Experience 的板块会有大量实际的案例以及更加具体的讲解。  
+
 
 
 

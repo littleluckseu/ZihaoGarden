@@ -12,7 +12,7 @@ CV 不同于找工作的 Resume，Resume 需要根据岗位定制，但对于不
 
 比如说，你可以在 Education 板块罗列自己和申请方向契合的课程名字及成绩，可以在进行经历描述时来转移侧重点，凸显和申请专业相关的专业技能。 
 
-（2）学校or专业有 CV 的具体要求   
+（2）学校or专业有 CV 的具体要求 
 
 一般而言，大部分国外大学不会对 CV 有具体的要求，但凡事都有例外，**一切以申请学校的官网信息为准。**
 
@@ -50,9 +50,9 @@ CV 不同于找工作的 Resume，Resume 需要根据岗位定制，但对于不
 - Something you did that resulted in benefiting the organization 
 - ...
 
-所有成果描述的写法，我建议以 SAR （Situation-Action-Result）的形式来进行组织。不同 bullet points 之间根据情况选择采取「重要性排序」还是「逻辑链排序」（后面会提到）。同时呢，在后续 Experience 的板块会有大量实际的案例以及更加具体的讲解。  
+所有成果描述的写法，我建议以 SAR （Situation-Action-Result）的形式来进行组织。不同 bullet points 之间根据情况选择采取「重要性排序」还是「逻辑链排序」（后面会提到）。
 
-
+在后续 Experience 的板块会有大量实际的案例以及更加具体的讲解。  
 
 
 

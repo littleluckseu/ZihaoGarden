@@ -5,7 +5,12 @@ Experience 可谓是 CV 里最重要但也最难写的部分了。
 - Research (Project) Experience 
 - Work Experience
 
-当然，这部分内容怎么写，也是最令人头疼的的地方。CV 的写作本身并没有标准答案，但也有一些普遍适用的规则需要遵守。 
+另外，如果是申请特定专业的同学，也可以根据专业特点来定制板块的名字。
+
+申请管理类项目的同学可以直接开辟一个板块：Leadership Experience
+
+申请营销类项目的同学可以说：Marketing Experience
+
 
 ## 1.基本信息
 
@@ -51,7 +56,6 @@ Experience 可谓是 CV 里最重要但也最难写的部分了。
 > Evaluated material’s electrical properties in electrochemical work station and measured its resistance to convert human body movements into easily detectable electrical signals
 
 **修改前更像是从自己项目报告里截取出来的片段，在汇报工作。修改后都以动词开头，给人感觉更像是自己亲身参与到了项目中。** 
-
 :::note
 
 这里有同学可能会问：原文里的量化指标你怎么省略了？不是说最好能量化就量化吗？ 
@@ -59,7 +63,6 @@ Experience 可谓是 CV 里最重要但也最难写的部分了。
 大家注意啊，我们量化的指标需要是让招生官能够理解的指标。省略第一个「延长700%」是因为前面的 bullet point 已经提到过。省略第二个的「0.989」是因为这个指标反应不出所做工作的好坏，招生官不知道 0.989 是否是一个正确的参数，不像 accuary，efficiency 等指标简洁明了。 
 
 :::  
-
 （4）缩写尽可能都写全称 
 
 除非像 DNA，FPGA 这样在专业领域大家都耳熟能详的英文缩写。所有缩写第一次出现时都需要写全称，然后加上括号，写上对应的缩写。
@@ -90,12 +93,9 @@ Experience 可谓是 CV 里最重要但也最难写的部分了。
 3. R：Result
 
 在 Bullet Point 里写对应的 Result，一般是展现你自己做的事情对于某个 organization或者problem的影响。
-
 :::note
 **我的建议是能量化（Quantify）就量化，不能量化就 Qualify。**
 :::  
-
-
 Quantify: 尽可能地给到具体的数字，特别是注重数字体现的专业 （e.g Data Science）。
 
 > Designed new process that improved efficiency by 10%, enabling employees to dedicate this time to other projects
@@ -152,7 +152,7 @@ After SAR:
 
 ## 3.从零开始写一段经历 
 
-我们从一个真实案例开始，一步步教会大家怎么从头开始构思一段经历。
+我们通过真实案例从头开始，一步步教会大家怎么从头开始构思一段经历。 
 
 ### Step1：修改中文内容
 
@@ -297,6 +297,19 @@ After SAR:
 
 从附录的动词栏里面挑一个合适的动词，一般采用过去式开头即可。 
 
+**动词的选取呢，需要采用学术性较强的行为动词。**
+
+下图是一位历史系同学写的一段研究经历：
+![](https://image-upload-1307521651.cos.ap-nanjing.myqcloud.com/picture_upload/20230105101058.png)
+
+
+文科类研究很多以文献研读为主，但在描述经历中用“read”“suggest”这样的动词语气就比较弱。
+
+我们可以改用 peruse, review, propose, scrutinise等动词，修改后如下：
+
+![](https://image-upload-1307521651.cos.ap-nanjing.myqcloud.com/picture_upload/20230105101032.png)
+
+
 （3）调整语序和语态
 
 举个例子，第三点用的是 passive voice：
@@ -309,11 +322,14 @@ After SAR:
 
 是不是觉得自己在里面的参与感强了不少，而不是以一个旁观者的身份在叙述项目的成果了？
 
+**另外，推荐大家先使用 grammarly（有word插件版本）检查一遍语法，修改完基础的拼写和语法错误。**
 
+> 注：grammarly是基于美式拼写规则，申请英国地区的同学需要注意辨别
 
 ## 小结 
 
-最重要的 Experience 板块，我们就说到这里，希望大家看完后能认真去构思自己每个经历的 bullet points。
+最重要的 Experience 板块，我们就说到这里，现在你可以开始去构思你自己经历的 bullet points 。
+
 
 
 

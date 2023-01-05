@@ -77,5 +77,11 @@ b) 如果你本身学术性的获奖比较多，比如说竞赛获奖，国奖�
 
 Scholarship 那里的两个奖项除了获奖时间不同，其它是一样的，可以缩减为 1 行，同时像 University Level 写出来反而显得掉价，不如不写。 
 
+（7）交流项目
+
+![](https://image-upload-1307521651.cos.ap-nanjing.myqcloud.com/picture_upload/20230105101147.png)
+
+这里提到交流项目时可以用 bullet points 简单陈述自己在项目中学到了什么，做了什么，但注意整体篇幅要合适。 
+
 
 

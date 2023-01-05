@@ -119,7 +119,6 @@ const sidebars = {
   ],
 
   成长笔记: [
-    'Life/2022fall申请总结',
     'Life/2022的吉光片羽',
     'Life/2021年复盘',
     'Life/2020年复盘'

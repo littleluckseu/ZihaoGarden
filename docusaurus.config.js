@@ -97,8 +97,8 @@ const config = {
             items: [
               {
                 type:'docSidebar',
-                label: '数字花园',
-                sidebarId:'数字花园',
+                label: '通信基础',
+                sidebarId:'通信基础',
               },
 
             ],
@@ -119,6 +119,12 @@ const config = {
           type:'docSidebar',
           label: '🚀AILearning',
           sidebarId:'AILearning',
+          position: 'right',
+        },
+        {
+          type:'docSidebar',
+          label: '❇️ChatGPT专题',
+          sidebarId:'ChatGPT专题',
           position: 'right',
         },
         {

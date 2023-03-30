@@ -123,8 +123,14 @@ const sidebars = {
     'Life/2021年复盘',
     'Life/2020年复盘'
   ],
+  ChatGPT专题: [
+    'ChatGPT/谈谈 Chatgpt 的奇技淫巧'
+  ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
+  ],
+  通信基础: [
+    'TeleCommunication/一文讲透无线信道衰落'
   ],
   留学专题:[
     {

@@ -130,7 +130,8 @@ const sidebars = {
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
   ],
   通信基础: [
-    'TeleCommunication/一文讲透无线信道衰落'
+    'TeleCommunication/一文讲透无线信道衰落',
+    'TeleCommunication/OFDM系统详解'
   ],
   留学专题:[
     {

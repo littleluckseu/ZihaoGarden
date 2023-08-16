@@ -131,7 +131,9 @@ const sidebars = {
   ],
   通信基础: [
     'TeleCommunication/一文讲透无线信道衰落',
-    'TeleCommunication/OFDM系统详解'
+    'TeleCommunication/OFDM系统详解',
+    'TeleCommunication/WiFi 802.11n Link-level Simulation MATLAB',
+    'TeleCommunication/MIMO详解（1）分集技术'
   ],
   留学专题:[
     {

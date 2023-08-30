@@ -133,7 +133,8 @@ const sidebars = {
     'TeleCommunication/一文讲透无线信道衰落',
     'TeleCommunication/OFDM系统详解',
     'TeleCommunication/WiFi 802.11n Link-level Simulation MATLAB',
-    'TeleCommunication/MIMO详解（1）分集技术'
+    'TeleCommunication/MIMO详解（1）分集技术',
+    'TeleCommunication/MIMO 详解系列（2）：ZF 和 MMSE 算法'
   ],
   留学专题:[
     {

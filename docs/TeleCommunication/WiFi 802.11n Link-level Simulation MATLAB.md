@@ -130,7 +130,7 @@ tgnChannel.NormalizeChannelOutputs = false;
 
 在 802.11n 标准下，我们用的是 HT 的数据格式，我们就去源文件里找和 HT 相关部分即可，先忽略其余部分。 
 
-![image-20230806101803668](C:\Users\ZihaoGong\AppData\Roaming\Typora\typora-user-images\image-20230806101803668.png)
+![](https://image-upload-1307521651.cos.ap-nanjing.myqcloud.com/picture_upload/20230816120651.png)
 
 大家可以对应左边的行号去找到 wlanWaveformGenerator.m 文件里的相关部分，然后逐一去理解和比对。
 

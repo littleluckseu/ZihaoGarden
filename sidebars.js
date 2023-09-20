@@ -134,9 +134,12 @@ const sidebars = {
     'TeleCommunication/OFDM系统详解',
     'TeleCommunication/WiFi 802.11n Link-level Simulation MATLAB',
     'TeleCommunication/MIMO详解（1）分集技术',
+    'TeleCommunication/MIMO 详解系列（2）：ZF 和 MMSE 算法',
     'TeleCommunication/MIMO详解系列（3）：MU-MIMO',
     'TeleCommunication/802.11协议族简介和学习资源推荐',
-    'TeleCommunication/802.11n协议精读（1）从 SISO 到 MIMO'
+    'TeleCommunication/802.11n协议精读（1）从 SISO 到 MIMO',
+    'TeleCommunication/802.11n协议精读（2）信道带宽和MCS',
+    'TeleCommunication/802.11n协议精读（3）PLCP Header 结构'
   ],
   留学专题:[
     {

@@ -52,9 +52,8 @@ $$
 x_{MMSE}=(H^H H+\sigma^{2}_{z}I)^{-1}H^H y
 $$
 
-至于$w_{mmse}=(H^H H+\sigma^{2}_{z}I)^{-1}H^H$怎么得来的呢？其实就是解 $$
-w_{mmse} = argmin ||X-w_{mmse}Y| |^2
-$$
+至于$w_{mmse}=(H^H H+\sigma^{2}_{z}I)^{-1}H^H$怎么得来的呢？其实就是解 $w_{mmse} = argmin ||X-w_{mmse}Y| |^2$
+
 具体的推导过程还是参考 sharetechNote 网站上的对应部分，这里就略过不写了。 
 
 [MMSE | ShareTechnote](https://www.sharetechnote.com/html/Communication_ChannelModel_MMSE.html)

@@ -130,6 +130,7 @@ const sidebars = {
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'
   ],
   通信基础: [
+    'TeleCommunication/信道容量与香农公式',
     'TeleCommunication/一文讲透无线信道衰落',
     'TeleCommunication/OFDM系统详解',
     'TeleCommunication/WiFi 802.11n Link-level Simulation MATLAB',
@@ -139,7 +140,8 @@ const sidebars = {
     'TeleCommunication/802.11协议族简介和学习资源推荐',
     'TeleCommunication/802.11n协议精读（1）从 SISO 到 MIMO',
     'TeleCommunication/802.11n协议精读（2）信道带宽和MCS',
-    'TeleCommunication/802.11n协议精读（3）PLCP Header 结构'
+    'TeleCommunication/802.11n协议精读（3）PLCP Header 结构',
+    'TeleCommunication/802.11协议精读（4）Transmitter Block Diagram'
   ],
   留学专题:[
     {

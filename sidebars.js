@@ -119,12 +119,17 @@ const sidebars = {
   ],
 
   成长笔记: [
+    'Life/我的2023',
     'Life/2022的吉光片羽',
     'Life/2021年复盘',
     'Life/2020年复盘'
   ],
   ChatGPT专题: [
     'ChatGPT/谈谈 Chatgpt 的奇技淫巧'
+  ],
+  德州扑克: [
+    'TexasPoker/BTN vs BB 高牌面攻防策略 Part1',
+    'TexasPoker/K72彩虹面转牌策略分析'
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'

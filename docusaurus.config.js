@@ -140,6 +140,12 @@ const config = {
         },
         {
           type:'docSidebar',
+          label: '🎲德州扑克',
+          sidebarId:'德州扑克',
+          position: 'right',
+        },
+        {
+          type:'docSidebar',
           label: '🌅留学专题',
           sidebarId:'留学专题',
           position: 'right',

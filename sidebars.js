@@ -129,7 +129,10 @@ const sidebars = {
   ],
   德州扑克: [
     'TexasPoker/BTN vs BB 高牌面攻防策略 Part1',
-    'TexasPoker/K72彩虹面转牌策略分析'
+    'TexasPoker/BTN vs BB 高牌面攻防策略 Part2',
+    'TexasPoker/K72彩虹面转牌策略分析',
+    'TexasPoker/BTN vs BB 中低张彩虹面攻防',
+    'TexasPoker/德扑低级别剥削弃牌和抓鸡策略',
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'

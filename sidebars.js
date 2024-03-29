@@ -128,11 +128,35 @@ const sidebars = {
     'ChatGPT/谈谈 Chatgpt 的奇技淫巧'
   ],
   德州扑克: [
-    'TexasPoker/BTN vs BB 高牌面攻防策略 Part1',
-    'TexasPoker/BTN vs BB 高牌面攻防策略 Part2',
+    {
+      type: 'category',
+      label: '⚙️Single Raised Pot(SRP)',
+      link: {
+        type: 'generated-index',
+        //description: ' ',
+        keywords: ['x', 'x'],
+      },
+      items: [
+        'TexasPoker/BTN vs BB 高牌面攻防策略 Part1',
+        'TexasPoker/BTN vs BB 高牌面攻防策略 Part2',
+        'TexasPoker/BTN vs BB 中低张彩虹面攻防'
+      ],
+    },
+    {
+      type: 'category',
+      label: '🎲3B pot',
+      link: {
+        type: 'generated-index',
+        //description: ' ',
+        keywords: ['x', 'x'],
+      },
+      items: [
+        'TexasPoker/SB vs BTN 3OA 攻防策略',
+        
+      ],
+    },
     'TexasPoker/K72彩虹面转牌策略分析',
-    'TexasPoker/BTN vs BB 中低张彩虹面攻防',
-    'TexasPoker/德扑低级别剥削弃牌和抓鸡策略',
+    'TexasPoker/德扑低级别剥削弃牌和抓鸡策略'
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'

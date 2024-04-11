@@ -152,11 +152,12 @@ const sidebars = {
       },
       items: [
         'TexasPoker/SB vs BTN 3OA 攻防策略',
-        
+        'TexasPoker/SB vs BTN 3OA 公对彩虹面'
       ],
     },
     'TexasPoker/K72彩虹面转牌策略分析',
-    'TexasPoker/德扑低级别剥削弃牌和抓鸡策略'
+    'TexasPoker/德扑低级别剥削弃牌和抓鸡策略',
+    'TexasPoker/利用Solver系统研究 GTO 策略',
   ],
   AILearning: [
     'AILearning/VScode+Anaconda+Pytorch环境搭建指南'

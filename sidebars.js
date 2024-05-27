@@ -128,6 +128,7 @@ const sidebars = {
     'ChatGPT/谈谈 Chatgpt 的奇技淫巧'
   ],
   德州扑克: [
+    'TexasPoker/必读！关于德扑系列文章和进交流群',
     {
       type: 'category',
       label: '⚙️Single Raised Pot(SRP)',

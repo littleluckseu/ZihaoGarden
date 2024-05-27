@@ -109,20 +109,4 @@ CO 位在中低张面，特别是连接面，有很高的 donk 频率，对于�
 **希望这篇文章能够让你更好地理解怎么使用 Solver 去学习，明白不同位置带来的策略影响，做到在不同的牌面心里有数。**
 
 
-更多我写的德扑和 GTO 干货文章请参考下方链接，另外我自己也有关于德扑的交流群，大家如果感兴趣可以通过我个人主页找我：
 
-下方的文章建议按顺序阅读：
-
-✨必看！如何利用 Solver 系统性学习 GTO 策略：
-https://zhuanlan.zhihu.com/p/690607173
-✨BTN vs BB SRP 攻防的 GTO 策略讲解：
-https://zhuanlan.zhihu.com/p/682167073
-https://zhuanlan.zhihu.com/p/682477380
-https://zhuanlan.zhihu.com/p/683967554
-✨SB vs BTN 3OA 策略总结：
-https://zhuanlan.zhihu.com/p/688857320
-https://zhuanlan.zhihu.com/p/692026699
-✨5k字干货，K72 转牌策略分析：
-https://zhuanlan.zhihu.com/p/681934996
-✨剥削弃牌必看：
-https://zhuanlan.zhihu.com/p/685538766

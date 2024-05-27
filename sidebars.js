@@ -178,7 +178,8 @@ const sidebars = {
     'TeleCommunication/802.11协议精读（4）Transmitter Block Diagram'
   ],
   留学专题:[
-    'Studyabroad/🌀青临的留学小店', 
+    'Studyabroad/青临的留学小店', 
+    'Studyabroad/必读！为什么我推荐你留学diy', 
     {
       type: 'category',
       label: '📚文书准备',

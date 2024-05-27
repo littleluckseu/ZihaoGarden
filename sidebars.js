@@ -152,7 +152,8 @@ const sidebars = {
       },
       items: [
         'TexasPoker/SB vs BTN 3OA 攻防策略',
-        'TexasPoker/SB vs BTN 3OA 公对彩虹面'
+        'TexasPoker/SB vs BTN 3OA 公对彩虹面',
+        'TexasPoker/BTN vs CO 3IA 攻防策略',
       ],
     },
     'TexasPoker/K72彩虹面转牌策略分析',
@@ -177,6 +178,7 @@ const sidebars = {
     'TeleCommunication/802.11协议精读（4）Transmitter Block Diagram'
   ],
   留学专题:[
+    'Studyabroad/🌀青临的留学小店', 
     {
       type: 'category',
       label: '📚文书准备',

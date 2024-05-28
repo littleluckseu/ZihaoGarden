@@ -181,6 +181,7 @@ const sidebars = {
   留学专题:[
     'Studyabroad/青临的留学小店', 
     'Studyabroad/必读！为什么我推荐你留学diy', 
+    'Studyabroad/辨别中介是否套模板写作', 
     {
       type: 'category',
       label: '📚文书准备',

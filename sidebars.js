@@ -179,7 +179,7 @@ const sidebars = {
     'TeleCommunication/802.11协议精读（4）Transmitter Block Diagram'
   ],
   留学专题:[
-    'Studyabroad/青临的留学小店', 
+    //'Studyabroad/青临的留学小店', 
     'Studyabroad/必读！为什么我推荐你留学diy', 
     'Studyabroad/辨别中介是否套模板写作', 
     {
@@ -197,25 +197,25 @@ const sidebars = {
     },
     'Studyabroad/EE方向背景提升', 
     'Studyabroad/美国EE方向梳理',
-    {
-      type: 'category',
-      label: '🌀CV写作指北',
-      link: {
-        type: 'generated-index',
-        description: '一本极简的 CV 写作指南，适合申请季的学生自己 Diy。',
-        keywords: ['x', 'x'],
-      },
-      items: [
-        'Studyabroad/CV guidebook/序言', 
-        'Studyabroad/CV guidebook/CV 写作流程一览',
-        'Studyabroad/CV guidebook/Part1 Personal Information', 
-        'Studyabroad/CV guidebook/Part2 Education',
-        'Studyabroad/CV guidebook/Part3 Experience',
-        'Studyabroad/CV guidebook/Part4 Additional Information',
-        'Studyabroad/CV guidebook/FAQ',
-        'Studyabroad/CV guidebook/附录'
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: '🌀CV写作指北',
+    //   link: {
+    //     type: 'generated-index',
+    //     description: '一本极简的 CV 写作指南，适合申请季的学生自己 Diy。',
+    //     keywords: ['x', 'x'],
+    //   },
+    //   items: [
+    //     'Studyabroad/CV guidebook/序言', 
+    //     'Studyabroad/CV guidebook/CV 写作流程一览',
+    //     'Studyabroad/CV guidebook/Part1 Personal Information', 
+    //     'Studyabroad/CV guidebook/Part2 Education',
+    //     'Studyabroad/CV guidebook/Part3 Experience',
+    //     'Studyabroad/CV guidebook/Part4 Additional Information',
+    //     'Studyabroad/CV guidebook/FAQ',
+    //     'Studyabroad/CV guidebook/附录'
+    //   ],
+    // },
   ],
 };
 
